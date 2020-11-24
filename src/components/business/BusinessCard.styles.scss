@@ -1,0 +1,9 @@
+.business-card-wrapper {
+  justify-self: center;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center;
+  font-size: 15px;
+  width: 300px;
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.contact-wrapper {
+  background-color: rgb(246, 245, 241);
+  text-align: center;
+
+  .button {
+    outline: none;
+  }
+}
+
+.social-media {
+  font-size: 22px;
+  padding-bottom: 20px;
+  & a {
+    margin: 25px;
+    color: rgb(212, 76, 59);
+  }
+  & a:hover {
+    color: #212529;
+  }
+}

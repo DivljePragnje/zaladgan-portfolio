@@ -1,0 +1,15 @@
+.about-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  background-color: rgb(246, 245, 241);
+}
+.about-image {
+  justify-self: center;
+  width: 60%;
+}
+
+.about-text {
+  justify-self: center;
+  align-self: center;
+  width: 60%;
+}

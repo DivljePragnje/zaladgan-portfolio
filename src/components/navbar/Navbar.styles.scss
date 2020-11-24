@@ -1,0 +1,20 @@
+nav {
+  background: transparent;
+}
+
+.navbar .nav-item {
+  margin: 20px;
+  color: rgb(246, 245, 241);
+  cursor: pointer;
+}
+
+.navbar .nav-item:active,
+.navbar .nav-item:focus,
+.navbar .nav-item:hover {
+  color: rgb(212, 76, 59);
+}
+
+.navbar-toggler {
+  color: rgb(212, 76, 59);
+  border: none;
+}

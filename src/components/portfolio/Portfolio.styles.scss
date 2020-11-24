@@ -1,0 +1,41 @@
+.container {
+  padding: 60px;
+  .porfolio-text {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+  }
+  h4 {
+    font-size: 24px;
+    margin: 0 0 10px;
+    padding: 0 0 10px;
+    position: relative;
+    font-weight: bold;
+  }
+  h4::after {
+    background-color: rgb(197, 197, 197);
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 3px;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, 0);
+    width: 250px;
+  }
+  p {
+    text-align: center;
+  }
+  .slider {
+    margin-top: 50px;
+  }
+
+  .button {
+    margin-top: 0px;
+    outline: none;
+  }
+  .gallery {
+    z-index: -1;
+    transition: 0.4s;
+  }
+}

@@ -1,0 +1,8 @@
+.scoreboard-wrapper {
+  background-color: rgb(246, 245, 241);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  font-size: 15px;
+  justify-items: center;
+  text-align: center;
+}
