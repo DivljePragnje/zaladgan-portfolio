@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/zaladgan-portfolio/static/css/main.b72bdd95.chunk.css",
-    "main.js": "/zaladgan-portfolio/static/js/main.90b01265.chunk.js",
-    "main.js.map": "/zaladgan-portfolio/static/js/main.90b01265.chunk.js.map",
+    "main.css": "/zaladgan-portfolio/static/css/main.e27257bc.chunk.css",
+    "main.js": "/zaladgan-portfolio/static/js/main.63363ec1.chunk.js",
+    "main.js.map": "/zaladgan-portfolio/static/js/main.63363ec1.chunk.js.map",
     "runtime-main.js": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js",
     "runtime-main.js.map": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js.map",
     "static/css/2.9bf37e9b.chunk.css": "/zaladgan-portfolio/static/css/2.9bf37e9b.chunk.css",
@@ -10,10 +10,11 @@
     "static/js/2.4b92438d.chunk.js.map": "/zaladgan-portfolio/static/js/2.4b92438d.chunk.js.map",
     "index.html": "/zaladgan-portfolio/index.html",
     "static/css/2.9bf37e9b.chunk.css.map": "/zaladgan-portfolio/static/css/2.9bf37e9b.chunk.css.map",
-    "static/css/main.b72bdd95.chunk.css.map": "/zaladgan-portfolio/static/css/main.b72bdd95.chunk.css.map",
+    "static/css/main.e27257bc.chunk.css.map": "/zaladgan-portfolio/static/css/main.e27257bc.chunk.css.map",
     "static/js/2.4b92438d.chunk.js.LICENSE.txt": "/zaladgan-portfolio/static/js/2.4b92438d.chunk.js.LICENSE.txt",
     "static/media/about-monitor.3c5a53e7.png": "/zaladgan-portfolio/static/media/about-monitor.3c5a53e7.png",
     "static/media/ashby.jpg": "/zaladgan-portfolio/static/media/ashby.b72481ed.jpg",
+    "static/media/awards-won.png": "/zaladgan-portfolio/static/media/awards-won.114c7da8.png",
     "static/media/background.5901c50f.jpg": "/zaladgan-portfolio/static/media/background.5901c50f.jpg",
     "static/media/bird.jpg": "/zaladgan-portfolio/static/media/bird.76f1812a.jpg",
     "static/media/bug.jpg": "/zaladgan-portfolio/static/media/bug.b08cef2d.jpg",
@@ -23,6 +24,7 @@
     "static/media/leagle.jpg": "/zaladgan-portfolio/static/media/leagle.3d134cc6.jpg",
     "static/media/mountain.jpg": "/zaladgan-portfolio/static/media/mountain.eb66e161.jpg",
     "static/media/p.jpg": "/zaladgan-portfolio/static/media/p.2cd3e764.jpg",
+    "static/media/project-completed.png": "/zaladgan-portfolio/static/media/project-completed.114c7da8.png",
     "static/media/spoons.jpg": "/zaladgan-portfolio/static/media/spoons.f683a13d.jpg",
     "static/media/suv.jpg": "/zaladgan-portfolio/static/media/suv.12432121.jpg"
   },
@@ -30,7 +32,7 @@
     "static/js/runtime-main.b468a53a.js",
     "static/css/2.9bf37e9b.chunk.css",
     "static/js/2.4b92438d.chunk.js",
-    "static/css/main.b72bdd95.chunk.css",
-    "static/js/main.90b01265.chunk.js"
+    "static/css/main.e27257bc.chunk.css",
+    "static/js/main.63363ec1.chunk.js"
   ]
 }
