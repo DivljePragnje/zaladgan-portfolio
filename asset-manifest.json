@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zaladgan-portfolio/static/css/main.335fb0f1.chunk.css",
-    "main.js": "/zaladgan-portfolio/static/js/main.ce9d7744.chunk.js",
-    "main.js.map": "/zaladgan-portfolio/static/js/main.ce9d7744.chunk.js.map",
+    "main.css": "/zaladgan-portfolio/static/css/main.aedc7045.chunk.css",
+    "main.js": "/zaladgan-portfolio/static/js/main.b95747d3.chunk.js",
+    "main.js.map": "/zaladgan-portfolio/static/js/main.b95747d3.chunk.js.map",
     "runtime-main.js": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js",
     "runtime-main.js.map": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js.map",
     "static/css/2.9bf37e9b.chunk.css": "/zaladgan-portfolio/static/css/2.9bf37e9b.chunk.css",
-    "static/js/2.2784a29f.chunk.js": "/zaladgan-portfolio/static/js/2.2784a29f.chunk.js",
-    "static/js/2.2784a29f.chunk.js.map": "/zaladgan-portfolio/static/js/2.2784a29f.chunk.js.map",
+    "static/js/2.4b92438d.chunk.js": "/zaladgan-portfolio/static/js/2.4b92438d.chunk.js",
+    "static/js/2.4b92438d.chunk.js.map": "/zaladgan-portfolio/static/js/2.4b92438d.chunk.js.map",
     "index.html": "/zaladgan-portfolio/index.html",
     "static/css/2.9bf37e9b.chunk.css.map": "/zaladgan-portfolio/static/css/2.9bf37e9b.chunk.css.map",
-    "static/css/main.335fb0f1.chunk.css.map": "/zaladgan-portfolio/static/css/main.335fb0f1.chunk.css.map",
-    "static/js/2.2784a29f.chunk.js.LICENSE.txt": "/zaladgan-portfolio/static/js/2.2784a29f.chunk.js.LICENSE.txt",
+    "static/css/main.aedc7045.chunk.css.map": "/zaladgan-portfolio/static/css/main.aedc7045.chunk.css.map",
+    "static/js/2.4b92438d.chunk.js.LICENSE.txt": "/zaladgan-portfolio/static/js/2.4b92438d.chunk.js.LICENSE.txt",
     "static/media/about-monitor.3c5a53e7.png": "/zaladgan-portfolio/static/media/about-monitor.3c5a53e7.png",
     "static/media/ashby.jpg": "/zaladgan-portfolio/static/media/ashby.b72481ed.jpg",
     "static/media/background.5901c50f.jpg": "/zaladgan-portfolio/static/media/background.5901c50f.jpg",
@@ -19,6 +19,7 @@
     "static/media/bug.jpg": "/zaladgan-portfolio/static/media/bug.b08cef2d.jpg",
     "static/media/cleaning-flour-de-lis.jpg": "/zaladgan-portfolio/static/media/cleaning-flour-de-lis.0b8b9c6c.jpg",
     "static/media/cooking-pin.jpg": "/zaladgan-portfolio/static/media/cooking-pin.74dc0f12.jpg",
+    "static/media/happy-clients.png": "/zaladgan-portfolio/static/media/happy-clients.114c7da8.png",
     "static/media/leagle.jpg": "/zaladgan-portfolio/static/media/leagle.3d134cc6.jpg",
     "static/media/mountain.jpg": "/zaladgan-portfolio/static/media/mountain.eb66e161.jpg",
     "static/media/p.jpg": "/zaladgan-portfolio/static/media/p.2cd3e764.jpg",
@@ -28,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.b468a53a.js",
     "static/css/2.9bf37e9b.chunk.css",
-    "static/js/2.2784a29f.chunk.js",
-    "static/css/main.335fb0f1.chunk.css",
-    "static/js/main.ce9d7744.chunk.js"
+    "static/js/2.4b92438d.chunk.js",
+    "static/css/main.aedc7045.chunk.css",
+    "static/js/main.b95747d3.chunk.js"
   ]
 }
