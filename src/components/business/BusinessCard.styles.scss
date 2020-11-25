@@ -1,9 +1,18 @@
 .business-card-wrapper {
   justify-self: center;
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   justify-items: center;
-  font-size: 15px;
   width: 300px;
+  height: 120px;
+  margin-top: 50px;
   text-align: center;
+  .business-card-icon {
+    color: rgb(255, 0, 0);
+  }
+
+  .title {
+    font-weight: bold;
+    font-stretch: expanded;
+  }
 }

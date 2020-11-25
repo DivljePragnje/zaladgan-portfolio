@@ -6,6 +6,7 @@ nav {
   margin: 20px;
   color: rgb(246, 245, 241);
   cursor: pointer;
+  user-select: none;
 }
 
 .navbar .nav-item:active,

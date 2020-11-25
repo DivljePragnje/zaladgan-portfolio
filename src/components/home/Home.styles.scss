@@ -8,11 +8,21 @@
   text-align: center;
   color: white;
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.67);
-}
 
-.centered-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  .centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    h1 {
+      font-size: 60px;
+      font-weight: bold;
+    }
+    h3 {
+      font-style: oblique;
+    }
+    h5 {
+      font-style: oblique;
+    }
+  }
 }

@@ -2,14 +2,26 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   background-color: rgb(246, 245, 241);
-}
-.about-image {
-  justify-self: center;
-  width: 60%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  .about-image {
+    justify-self: center;
+
+    width: 80%;
+  }
+  .about-text {
+    justify-self: center;
+    align-self: center;
+
+    margin-right: 250px;
+    width: 80%;
+  }
 }
 
-.about-text {
-  justify-self: center;
-  align-self: center;
-  width: 60%;
+@media only screen and (max-width: 716px) {
+  .about-text {
+    text-align: center;
+    margin-right: 0px !important;
+    width: 80%;
+  }
 }

@@ -1,10 +1,19 @@
 import React from "react";
-import "./Scoreboard.styles.scss";
+import "./ScoreboardCard.styles.scss";
 
 function ScoreboardCard(props) {
+  const getImageUrl = (imageName) => {
+    const imageUrl = require(`../../images/icons/${imageName}.png`);
+    return window.location.origin + imageUrl.default;
+  };
   return (
     <div className="scoreboard-card-wrapper">
-      <h1>{props.score}</h1>
+      <img
+        className="scoreboard-card-image"
+        src={getImageUrl(props.imageName)}
+        alt=""
+      ></img>
+      <p className="score">{props.score}</p>
       <p>{props.title}</p>
     </div>
   );

@@ -2,4 +2,14 @@
   display: grid;
   grid-template-rows: 1fr 1fr 1fr;
   justify-items: center;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  .scoreboard-card-image {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 30px;
+  }
+  .score {
+    font-size: 50px;
+  }
 }
