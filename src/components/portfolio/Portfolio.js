@@ -3,11 +3,8 @@ import PortfolioCard from "./PorfolioCard";
 import "./Portfolio.styles.scss";
 import AwesomeSlider from "react-awesome-slider";
 import withAutoplay from "react-awesome-slider/dist/autoplay";
-
 import CoreStyles from "react-awesome-slider/src/core/styles.scss";
 import AnimationStyles from "react-awesome-slider/src/styled/fold-out-animation/fold-out-animation.scss";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
 const imagesName = [
@@ -43,8 +40,9 @@ function Portfolio() {
 
   const renderSlider = () => {
     return imagesName.map((name, index) => {
-      let path = "../../images/designs/" + name + ".jpg";
-      return <div key={index} data-src={path}></div>;
+      const imageUrl = require(`../../images/designs/${name}.jpg`);
+      const imagePath = window.location.origin + imageUrl.default;
+      return <div key={index} data-src={imagePath}></div>;
     });
   };
 
