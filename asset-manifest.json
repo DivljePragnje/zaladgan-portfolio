@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zaladgan-portfolio/static/css/main.e27257bc.chunk.css",
-    "main.js": "/zaladgan-portfolio/static/js/main.63363ec1.chunk.js",
-    "main.js.map": "/zaladgan-portfolio/static/js/main.63363ec1.chunk.js.map",
+    "main.js": "/zaladgan-portfolio/static/js/main.0efe4e65.chunk.js",
+    "main.js.map": "/zaladgan-portfolio/static/js/main.0efe4e65.chunk.js.map",
     "runtime-main.js": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js",
     "runtime-main.js.map": "/zaladgan-portfolio/static/js/runtime-main.b468a53a.js.map",
     "static/css/2.9bf37e9b.chunk.css": "/zaladgan-portfolio/static/css/2.9bf37e9b.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.9bf37e9b.chunk.css",
     "static/js/2.4b92438d.chunk.js",
     "static/css/main.e27257bc.chunk.css",
-    "static/js/main.63363ec1.chunk.js"
+    "static/js/main.0efe4e65.chunk.js"
   ]
 }
