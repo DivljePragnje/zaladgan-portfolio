@@ -22,16 +22,32 @@ function Contact() {
         CONTACT ME
       </button>
       <div className="social-media">
-        <a href="https://www.instagram.com">
+        <a
+          href="https://www.instagram.com"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <FontAwesomeIcon icon={faInstagram} />
         </a>
-        <a href="https://www.facebook.com">
+        <a
+          href="https://www.facebook.com"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <FontAwesomeIcon icon={faFacebook} />
         </a>
-        <a href="https://www.pinterest.com">
+        <a
+          href="https://www.pinterest.com"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <FontAwesomeIcon icon={faPinterest} />
         </a>
-        <a href="https://www.twitter.com">
+        <a
+          href="https://www.twitter.com"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <FontAwesomeIcon icon={faTwitter} />
         </a>
       </div>
